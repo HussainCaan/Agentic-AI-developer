@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(py \"d:\\\\GEN AI\\\\Agentic AI\\\\Agentic-AI-developer\\\\Python\\\\Dictionaries\\\\dict.py\")",
+      "PowerShell(py \"d:\\\\GEN AI\\\\Agentic AI\\\\Agentic-AI-developer\\\\Python\\\\Dictionaries\\\\dict.py\")",
+      "PowerShell(Get-Command python3, python, py -ErrorAction SilentlyContinue)"
+    ]
+  }
+}
